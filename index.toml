@@ -86,6 +86,11 @@ hash = "fee7fe91bb7b34f17e1447cd4e6d5672e5714e061c0869204536e5d2ac6cc7b6"
 metafile = true
 
 [[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "4b48430430571dcafe9b60f64e3286161519f0416daa7215deb7468dcf107466"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "711e5ea2c44b3cdb1257a9dfb95b36425397f1ba3efc9f1c4263ccdbd6e149d8"
 metafile = true
 
 [[files]]
