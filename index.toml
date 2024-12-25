@@ -31,11 +31,6 @@ hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
 metafile = true
 
 [[files]]
-file = "mods/borderless-fullscreen.pw.toml"
-hash = "96d52f32194043b7132c90cb0e999936da576e3ebe33b6050394898a673948b8"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
 metafile = true
