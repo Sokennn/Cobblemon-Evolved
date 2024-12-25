@@ -36,11 +36,6 @@ hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
