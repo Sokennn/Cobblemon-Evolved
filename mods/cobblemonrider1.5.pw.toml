@@ -1,0 +1,13 @@
+name = "CobblemonRider"
+filename = "cobblemonridingfabric-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZLu8WiYO/versions/46UMKeyQ/cobblemonridingfabric-1.3.2.jar"
+hash-format = "sha512"
+hash = "0aeb013d478bde48d15af0c4f27e61dae1be2e55f4d7bc7e4e0a049af045d41f5cc4c454a7b668e58d8652a1d45daafcf01bf0b009cef6ac365f3dc3483e037c"
+
+[update]
+[update.modrinth]
+mod-id = "ZLu8WiYO"
+version = "46UMKeyQ"
