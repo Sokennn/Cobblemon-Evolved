@@ -6,11 +6,6 @@ hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "b9a8d843a1606df14841aa65018017fded775976da1b5451523a681fa15d095d"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
