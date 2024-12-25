@@ -31,6 +31,11 @@ hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
 metafile = true
@@ -58,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight.pw.toml"
 hash = "389333d218b9cea0f165d95892f61e0b1f768218fef15308d200ccb518dde4be"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-legendary-structures.pw.toml"
-hash = "8cd96e35f461ef8e4a8e5c0607520963d2fd48981e2a092b4565ad8e320f99cc"
 metafile = true
 
 [[files]]
