@@ -1,0 +1,13 @@
+name = "Cobblemon Evolved"
+author = "Soken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b68cf7ccd144930a8a9a88706f137741ae2cd8de81d5d6014822d0bbb776835c"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.1"

@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "fc8f794d5ec18979f4e17d9b456d4d5405151eedb4354e7118f9a14e5877793e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+metafile = true
