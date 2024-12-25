@@ -276,11 +276,6 @@ hash = "af96d44665278ac929dc118ad563f7ba4cae803410cfc121583d5faa8b997eae"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
-metafile = true
-
-[[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
 hash = "749cdd96e59ac8b64575db278582a805e3986b1976ebbc256e260b7c4eceab50"
 metafile = true
