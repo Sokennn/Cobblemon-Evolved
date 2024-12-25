@@ -6,6 +6,11 @@ hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "dac0763466d97d1e4e50e30dc9741502bb4c31cf96cd1a63436d7ea55ee639f6"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ef9a9bb4731d35ba93cd633559ce592e629405b61f2c7191c68abd7b84b9b6b"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
