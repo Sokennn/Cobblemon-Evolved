@@ -31,8 +31,8 @@ hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+file = "mods/borderless-fullscreen.pw.toml"
+hash = "96d52f32194043b7132c90cb0e999936da576e3ebe33b6050394898a673948b8"
 metafile = true
 
 [[files]]
