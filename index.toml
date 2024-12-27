@@ -146,6 +146,11 @@ hash = "b6a530549ee1aa5137ae26f8963dbb74472d79ef68bed5a6fa086094fd401a3c"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
@@ -253,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "6335b64b675c54158c7469b913d4ebba8597816ef049e35fd371e7954ab9de6e"
 metafile = true
 
 [[files]]
