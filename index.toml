@@ -314,3 +314,8 @@ metafile = true
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "b6ab493f28b935482d809d669f921b7524cc571639935d85ede7ff606d745db8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/essentials.pw.toml"
+hash = "36e00f510130e3fd17b58aa4c861e0e5e6e672d8c912896b3baa7b626d9fc0ad"
+metafile = true
